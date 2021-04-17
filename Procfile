@@ -1,1 +1,1 @@
-web: gunicorn app:mopyapp25
+web: gunicorn app:app
