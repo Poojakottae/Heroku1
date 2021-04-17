@@ -1,0 +1,7 @@
+Flask==1.1.2
+numpy
+pandas
+tensorflow
+tflearn
+nltk
+scipy
