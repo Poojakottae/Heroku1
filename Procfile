@@ -1,1 +1,1 @@
-web: gunicorn Mopybot:app
+web: gunicorn app:app
