@@ -12,7 +12,6 @@ backports.shutil-get-terminal-size==1.0.0
 backports.tempfile==1.0
 backports.weakref==1.0.post1
 bkcharts==0.2
-bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
 blurhash==1.1.4
 bokeh @ file:///C:/ci/bokeh_1603297934731/work
 boost==0.1
