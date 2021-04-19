@@ -11,7 +11,6 @@ backports.functools-lru-cache==1.6.1
 backports.shutil-get-terminal-size==1.0.0
 backports.tempfile==1.0
 backports.weakref==1.0.post1
-bcrypt @ file:///C:/ci/bcrypt_1597936263757/work
 beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
 bitarray @ file:///C:/ci/bitarray_1605065210072/work
 bkcharts==0.2
