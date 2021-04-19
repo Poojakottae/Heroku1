@@ -6,7 +6,6 @@ astropy==4.0.2
 astunparse==1.6.3
 async-generator==1.10
 atomicwrites==1.4.0
-autopep8 @ file:///tmp/build/80754af9/autopep8_1596578164842/work
 Babel @ file:///tmp/build/80754af9/babel_1605108370292/work
 backcall==0.2.0
 backports.functools-lru-cache==1.6.1
