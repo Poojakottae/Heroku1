@@ -6,7 +6,6 @@ astropy==4.0.2
 astunparse==1.6.3
 async-generator==1.10
 atomicwrites==1.4.0
-Babel @ file:///tmp/build/80754af9/babel_1605108370292/work
 backcall==0.2.0
 backports.functools-lru-cache==1.6.1
 backports.shutil-get-terminal-size==1.0.0
