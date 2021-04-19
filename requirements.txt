@@ -4,3 +4,6 @@ gunicorn
 nltk
 flask==0.12
 requests==2.14.2
+numpy
+tflearn
+tensorflow
